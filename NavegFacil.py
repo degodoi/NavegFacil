@@ -4,7 +4,7 @@ import webbrowser
 class SitesAgregados:
     def __init__(self, root):
         self.root = root
-        self.root.title('Sites Agregados')
+        self.root.title('Sites Agregados @degodoi.felipe')
         self.root.configure(bg='#f0f0f0')  # Cor de fundo suave
 
         # Criar os botões para cada site
